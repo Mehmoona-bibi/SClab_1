@@ -1,0 +1,22 @@
+---------------------------
+---------------------------
+SOFTWARE CONSTRUTION LAB 1:
+---------------------------
+---------------------------
+Introduction:
+  A linked list of unknown size is created containing channels of YouTube. 
+  It is able to perform following tasks:
+    1. add a new YouTube channel to a linked list without replacing any other channel
+    2. add a new YouTube channel to a linked list 
+    3. remove an existing channel from the linked list
+    4. prints the value in description for each YouTube channel in the TVManager 
+-----------------
+Language:
+  1. JAVA
+-----------------
+Additional libraries:
+  1. JSoup for showing description
+-----------------
+Tool:
+  1. NetBeans
+-----------------
